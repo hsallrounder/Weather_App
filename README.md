@@ -28,6 +28,6 @@ npm run dev
 npm run build
 ```
 
-```sh
+```
 Live Link: https://harmonious-horse-2aaa6b.netlify.app/
 ```
